@@ -7,7 +7,7 @@ from datetime import datetime, timedelta
 repo_path = os.getcwd()  # Assumes you're running the script inside the repo
 
 # Number of commits
-num_commits = 500  # Adjust as needed
+num_commits = 2000  # Adjust as needed
 start_date = datetime(2010, 1, 1)
 end_date = datetime(2025, 12, 31)
 
