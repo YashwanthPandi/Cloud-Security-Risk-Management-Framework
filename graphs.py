@@ -8,8 +8,8 @@ repo_path = os.getcwd()  # Assumes you're running the script inside the repo
 
 # Number of commits
 num_commits = 500  # Adjust as needed
-start_date = datetime(2023, 1, 1)
-end_date = datetime(2023, 12, 31)
+start_date = datetime(2010, 1, 1)
+end_date = datetime(2025, 12, 31)
 
 # Function to run shell commands
 def run_command(command):
